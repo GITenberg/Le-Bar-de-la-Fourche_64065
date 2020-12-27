@@ -1,0 +1,30 @@
+_repo: Le-Bar-de-la-Fourche_64065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert de Voisins, Auguste
+    aliases:
+    - Gilbert de Voisins, Auguste, comte
+    - De Voisins, Gilbert
+    - Voisins, Gilbert de
+    - Voisins, Auguste Gilbert de
+    birthdate: 1877
+    deathdate: 1939
+    gutenberg_agent_id: '46652'
+    url: http://www.gutenberg.org/2009/agents/46652
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
+description: ''
+gutenberg_issued: '2020-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64065'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+title: Le Bar de la Fourche
+url: http://www.gutenberg.org/ebooks/64065
